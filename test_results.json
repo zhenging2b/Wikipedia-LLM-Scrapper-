@@ -1,0 +1,113 @@
+{
+  "Agentic AI": {
+    "summary": "Agentic AI is a class of artificial intelligence that focuses on autonomous systems capable of making decisions and performing tasks with minimal human intervention. These systems utilize procedural, algorithmic, and human-like creative processes to respond to varying conditions and achieve complex goals.",
+    "evolution_timeline": "1998: The term 'agent-based process management system' is first used to describe autonomous agents in business process management.",
+    "key_innovations": "Development of intelligent agents that can autonomously execute tasks without direct human input; Integration of learning mechanisms that allow adaptation based on data inputs.",
+    "major_contributors": "MIT; Various AI research organizations and tech companies focusing on automation and intelligent agents.",
+    "main_techniques": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "applications": [
+      "Software Development",
+      "Customer Support",
+      "Cybersecurity",
+      "Business Intelligence"
+    ]
+  },
+  "Reinforcement Learning": {
+    "summary": "Reinforcement Learning (RL) is a type of machine learning wherein an agent learns to make decisions by interacting with an environment, utilizing rewards and penalties to optimize its performance over time. The goal of RL is to learn a policy that maximizes the cumulative reward by exploring the environment and exploiting known information about it.",
+    "evolution_timeline": "1950s: Early concepts of reinforcement learning and learning from rewards derived from behavioral psychology. 1989: Introduction of Q-learning by Chris Watkins, providing an off-policy learning algorithm. 1990s: Development of TD learning methods enhancing RL capabilities. 2013: Deep reinforcement learning emerges with advancements in neural networks. 2015: Successful application of deep RL techniques in games, notably AlphaGo, demonstrating human-level performance.",
+    "key_innovations": "Q-learning, SARSA, Deep Q-Networks (DQN), Proximal Policy Optimization (PPO), Asynchronous Actor-Critic Agents (A3C), actor-critic methods, policy gradient methods.",
+    "major_contributors": "Richard Sutton, Andrew Barto, David Silver, Yann LeCun, Volodymyr Mnih, Demis Hassabis.",
+    "main_techniques": [
+      "Q-learning",
+      "SARSA",
+      "Deep Q Networks (DQN)",
+      "Policy Gradient Methods",
+      "Actor-Critic Methods"
+    ],
+    "applications": [
+      "Robotics",
+      "Autonomous Vehicles",
+      "Game Playing (e.g., Chess, Go)",
+      "Health Care (personalized treatment)",
+      "Finance (active portfolio management)",
+      "Energy Management (smart grids)"
+    ]
+  },
+  "Machine Learning": {
+    "summary": "Machine learning (ML) is a subset of artificial intelligence focused on the development of algorithms that enable computers to learn patterns from data and make predictions or decisions without explicitly being programmed for specific tasks. It encompasses various techniques, including supervised, unsupervised, and reinforcement learning, utilizing statistical methods and optimization techniques to improve performance on tasks over time.",
+    "evolution_timeline": "1959 - Arthur Samuel coins the term 'machine learning'. 1986 - Backpropagation algorithm popularized for training neural networks. 1997 - Support Vector Machines (SVM) introduced. 2006 - Term 'deep learning' emerges with a resurgence of neural networks. 2012 - Deep learning achieves breakthrough results in image classification (ImageNet challenge). 2019 - Significant improvements in transfer learning and natural language processing with models like BERT and GPT-2.",
+    "key_innovations": "Neural Networks, Support Vector Machines, Decision Trees, Random Forests, Reinforcement Learning Algorithms, Deep Learning Techniques, Generative Adversarial Networks (GANs)",
+    "major_contributors": "Geoffrey Hinton, Yann LeCun, Andrew Ng, Demis Hassabis, Pedro Domingos",
+    "main_techniques": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Decision Trees",
+      "Support Vector Machines",
+      "Neural Networks",
+      "Ensemble Learning"
+    ],
+    "applications": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Speech Recognition",
+      "Recommendation Systems",
+      "Fraud Detection",
+      "Healthcare Diagnostics",
+      "Autonomous Vehicles",
+      "Predictive Analytics"
+    ]
+  },
+  "Deep Learning": {
+    "summary": "Deep Learning is a branch of machine learning that focuses on using multilayered neural networks to perform tasks such as classification, regression, and representation learning. It aims to mimic the way humans learn and process data by utilizing architectures that include multiple layers of artificial neurons.",
+    "evolution_timeline": "1943: The first concept of neurons proposed by McCulloch and Pitts. 1958: Frank Rosenblatt introduces the perceptron. 1970s: Development of backpropagation. 1986: Rumelhart, Hinton, and Williams popularize backpropagation. 2006: Hinton et al. publish breakthroughs in deep learning concepts. 2012: AlexNet wins the ImageNet competition, highlighting deep learning's capabilities. 2018: Hinton, Bengio, and LeCun awarded the Turing Award for their contributions to deep learning.",
+    "key_innovations": "Neural network architecture; Backpropagation algorithm; Convolutional neural networks (CNNs); Long Short-Term Memory (LSTM) networks; Generative Adversarial Networks (GANs); Transformer architecture.",
+    "major_contributors": "Geoffrey Hinton, Yann LeCun, Yoshua Bengio, Alex Krizhevsky, Ilya Sutskever, Jürgen Schmidhuber.",
+    "main_techniques": [
+      "Convolutional Neural Networks (CNN)",
+      "Recurrent Neural Networks (RNN)",
+      "LSTM networks",
+      "Deep Belief Networks (DBN)",
+      "Generative Adversarial Networks (GAN)",
+      "Transformers",
+      "Autoencoders"
+    ],
+    "applications": [
+      "Image recognition",
+      "Speech recognition",
+      "Natural language processing",
+      "Machine translation",
+      "Medical diagnosis",
+      "Autonomous vehicles",
+      "Drug discovery",
+      "Financial fraud detection",
+      "Generative art"
+    ]
+  },
+  "Natural Language Processing": {
+    "summary": "Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to understand, interpret, and generate human language. It encompasses tasks such as speech recognition, text classification, natural language understanding, and natural language generation, integrating concepts from computer science, linguistics, and information retrieval.",
+    "evolution_timeline": "1950s: Foundations of NLP laid; 1960s: Development of early systems like SHRDLU and ELIZA; 1970s: Introduction of conceptual ontologies; 1980s: Shift from rule-based systems to statistical methods; 2003: Milestone in statistics with n-gram models; 2010: Emergence of recurrent neural networks and Word2Vec; 2015 onwards: Dominance of deep learning and improved neural models for language processing.",
+    "key_innovations": "Turing Test (1950), SHRDLU (1960s), ELIZA (1960s), Hidden Markov Models (1990s), Word2Vec (2013), and Transformers (2017).",
+    "major_contributors": "Alan Turing, Joseph Weizenbaum, Yoshua Bengio, Tomáš Mikolov, Ian Goodfellow.",
+    "main_techniques": [
+      "Machine Learning",
+      "Deep Learning",
+      "Symbolic NLP",
+      "Statistical NLP",
+      "Transformers"
+    ],
+    "applications": [
+      "Chatbots and Virtual Assistants",
+      "Sentiment Analysis",
+      "Machine Translation",
+      "Automatic Summarization",
+      "Information Extraction",
+      "Speech Recognition"
+    ]
+  }
+}
