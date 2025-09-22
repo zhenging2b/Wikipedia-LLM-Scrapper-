@@ -1,4 +1,4 @@
-# Wikipedia-LLM-Scrapper and Research Assistance
+# Wikipedia-LLM-Scrapper and Research Assistant
 ## Introduction
 This project uses crawl4ai, openai strucutured outputs and function calling to help scrape and analyse wikipedia articles.The chosen examples are subfields of Artificial Intelligence. These fields are chosen because they are usually learned independently and sometimes the connection may not be so obvious. This Wikipedia Research assistance scrapes Wikipedia articles on selected topics and allow them to be compared. 
 
